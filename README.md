@@ -71,5 +71,3 @@ The app allows users to:
 
 ---
 
-## **Folder Structure**
-
