@@ -70,6 +70,24 @@ The app allows users to:
 - **Secure API**: JWT-based authentication protects backend routes.  
 
 ---
+## **Screenshots**
+
+### Login Page
+
+![Login Page](screenshots/Login.png)
+
+### Register Page
+
+![Todos](screenshots/Register.png)
+
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### Todos Page
+
+![Todos](screenshots/todo3.png)
+
 
 ## 👨‍💻 Developer
 
