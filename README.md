@@ -1,10 +1,10 @@
-# Project Title: To-Do Web App
+#  Project Title: To-Do Web App
 
 A **full-stack To-Do Web Application** built to manage tasks effectively. Users can log in, create boards, add todos, and perform CRUD operations on boards and tasks.
 
 ---
 
-## **Objective**
+## ✨ **Objective**
 
 The app allows users to:  
 
@@ -61,7 +61,7 @@ The app allows users to:
 5. Open your browser and navigate to `http://localhost:5173` to view the application.
 
 
-## **Features**
+## ✨ **Features**
 
 - **User Authentication**: Register and login securely using email.  
 - **Board Management**: Create, update, delete boards.  
@@ -70,4 +70,9 @@ The app allows users to:
 - **Secure API**: JWT-based authentication protects backend routes.  
 
 ---
+
+## 👨‍💻 Developer
+
+Himanshu Joshi
+- [GitHub](https://github.com/Himanshu-Joshi45)
 
